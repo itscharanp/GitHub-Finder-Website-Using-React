@@ -2,7 +2,6 @@
 
 > Contributor : Charan kumar
 
-<h3>Pixelated-coder-finder-app</h3>
 
 Github Finder using Github API :technologist:
 | Visit  Deployed  App on Netlify<br><br>
